@@ -1,0 +1,2 @@
+- [Electron + TypeScript + React の環境構築(Early 2021）)](https://qiita.com/sprout2000/items/9c91362e7d7b7c2c6d22)
+- [WSL2でElectronを動かすの巻](https://qiita.com/samunohito/items/d167aed2552620e4dfae)
